@@ -30,6 +30,6 @@ Node JS
 
 ## Projects
 ### JavaScript Projects
-Time Clock Update-Colour ▶️ Live Demo
-
-New Year Countdown ▶️ Live Demo
+- Time Clock Update-Colour ▶️ Live Demo
+-  New Year Countdown ▶️ Live Demo
+-  Book Appointment ▶️ Live Demo
