@@ -24,3 +24,6 @@ Package Manager: npm
 Tools and Software: Postman, Chrome Dev Tool, MS Excel, MS Word, MS PowerPoint
 
 Version Control, DevOps & OS: Git & GitHub, Windows
+
+## Currently Learning
+Node JS
