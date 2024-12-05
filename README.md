@@ -27,3 +27,9 @@ Version Control, DevOps & OS: Git & GitHub, Windows
 
 ## Currently Learning
 Node JS
+
+## Projects
+### JavaScript Projects
+Time Clock Update-Colour ▶️ Live Demo
+
+New Year Countdown ▶️ Live Demo
