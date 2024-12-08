@@ -30,6 +30,7 @@ Node JS
 
 ## Projects
 ### JavaScript Projects
-- [Time Clock Update-Colour](https://github.com/poojatiwari25/Time-Clock-Update-Colour.git) ▶️ [Live Demo]()
--  [New Year Countdown](https://github.com/poojatiwari25/New-Year-Countdown.git) ▶️ [Live Demo]()
--  [Book Appointment](https://github.com/poojatiwari25/Book-Appointment.git) ▶️ [Live Demo]()
+- [Time Clock Update-Colour](https://github.com/poojatiwari25/Time-Clock-Update-Colour.git) ▶️ [Live Demo](https://time-clock-update-color.netlify.app/)
+-  [New Year Countdown](https://github.com/poojatiwari25/New-Year-Countdown.git) ▶️ [Live Demo](https://new-year-countdown.netlify.app/)
+-  [Book Appointment](https://github.com/poojatiwari25/Book-Appointment.git) ▶️ [Live Demo](https://book-doctor-appointment-app.netlify.app
+)
