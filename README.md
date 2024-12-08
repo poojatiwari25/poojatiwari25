@@ -30,6 +30,6 @@ Node JS
 
 ## Projects
 ### JavaScript Projects
-- Time Clock Update-Colour ▶️ Live Demo
--  New Year Countdown ▶️ Live Demo
--  Book Appointment ▶️ Live Demo
+- [Time Clock Update-Colour](https://github.com/poojatiwari25/Time-Clock-Update-Colour.git) ▶️ [Live Demo]()
+-  [New Year Countdown](https://github.com/poojatiwari25/New-Year-Countdown.git) ▶️ [Live Demo]()
+-  [Book Appointment](https://github.com/poojatiwari25/Book-Appointment.git) ▶️ [Live Demo]()
