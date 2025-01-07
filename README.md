@@ -15,8 +15,6 @@ Frontend: React
 
 UI: Tailwind CSS, Bootstrap
 
-Backend: Node.js, Express.js
-
 Database: MongoDB, SQL
 
 Package Manager: npm
