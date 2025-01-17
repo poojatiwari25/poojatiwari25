@@ -9,13 +9,20 @@ I am proficient in JavaScript, React and a variety of frontend tools. Also skill
 
 
 ## Skills
-Programming Languages: JavaScript, C, C++
-Frontend Development: React, Magento 2, WordPress, Shopify
+Languages: JavaScript, C, C++
+
+Frontend Development: React, Magento 2, Wordpress, Shopify
+
 UI Frameworks: Tailwind CSS, Bootstrap
-Database Management: MongoDB, SQL
-Package Management: npm
+
+Database Management : MongoDB, SQL
+
+Package Manager: npm
+
 Tools & Software: Postman, Chrome DevTools, MS Excel, MS Word, MS PowerPoint
+
 Version Control & DevOps: Git, GitHub
+
 Operating Systems: Windows
 
 ## Currently Learning
