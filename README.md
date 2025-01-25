@@ -5,7 +5,7 @@ Software Engineer (SWE) specializing in Frontend development
 I am a proficient web developer with 4 years of combined experience in front-end development and e-commerce platforms. Skilled in creating dynamic React.js applications and customizing e-commerce solutions using Magento 2, WordPress, and Shopify. Adept at delivering high-performance websites and applications that meet both user expectations and business objectives.
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,cpp,jquery,mysql,mongodb,tailwind,firebase,git,postman,netlify,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,cpp,jquery,mysql,mongodb,tailwind,firebase,git,postman,netlify,wordpress)](https://skillicons.dev)
 
 
 ## Skills
