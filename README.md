@@ -9,9 +9,11 @@ I am proficient in JavaScript, React and a variety of frontend tools. Also skill
 
 
 ## Skills
-Languages: JavaScript, C, C++
+Frontend Development: React.js, Redux, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap
 
-Frontend Development: React, Magento 2, Wordpress, Shopify
+E-commerce: Magento 2 (theme and extension development), Shopify (Liquid), WordPress (custom themes and plugins), WooCommerce
+
+CMS Platforms: Magento 2, WordPress, Shopify
 
 UI Frameworks: Tailwind CSS, Bootstrap
 
@@ -24,9 +26,6 @@ Tools & Software: Postman, Chrome DevTools, MS Excel, MS Word, MS PowerPoint
 Version Control & DevOps: Git, GitHub
 
 Operating Systems: Windows
-
-## Currently Learning
-Node JS
 
 ## Projects
 ### JavaScript Projects
