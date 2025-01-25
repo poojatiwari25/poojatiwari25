@@ -15,8 +15,6 @@ I am a proficient web developer with 4 years of combined experience in front-end
 
 **CMS Platforms**: Magento 2, WordPress, Shopify
 
-**UI Frameworks**: Tailwind CSS, Bootstrap
-
 **Database Management** : MongoDB, SQL
 
 **Package Manager**: npm
