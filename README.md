@@ -9,23 +9,23 @@ I am proficient in JavaScript, React and a variety of frontend tools. Also skill
 
 
 ## Skills
-Frontend Development: React.js, Redux, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap
+**Frontend Development**: React.js, Redux, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap
 
-E-commerce: Magento 2 (theme and extension development), Shopify (Liquid), WordPress (custom themes and plugins), WooCommerce
+**E-commerce**: Magento 2 (theme and extension development), Shopify (Liquid), WordPress (custom themes and plugins), WooCommerce
 
-CMS Platforms: Magento 2, WordPress, Shopify
+**CMS Platforms**: Magento 2, WordPress, Shopify
 
-UI Frameworks: Tailwind CSS, Bootstrap
+**UI Frameworks**: Tailwind CSS, Bootstrap
 
-Database Management : MongoDB, SQL
+**Database Management** : MongoDB, SQL
 
-Package Manager: npm
+**Package Manager**: npm
 
-Tools & Software: Postman, Chrome DevTools, MS Excel, MS Word, MS PowerPoint
+**Tools & Software**: Postman, Chrome DevTools, MS Excel, MS Word, MS PowerPoint
 
-Version Control & DevOps: Git, GitHub
+**Version Control & DevOps**: Git, GitHub
 
-Operating Systems: Windows
+**Operating Systems**: Windows
 
 ## Projects
 ### JavaScript Projects
@@ -41,6 +41,8 @@ Operating Systems: Windows
 - [Project Management]() ▶️ [Live Demo]()
 - [Content Management System]() ▶️ [Live Demo]()
 - [React Blog]() ▶️ [Live Demo]()
+
+### Magento Projects
   
 
  
