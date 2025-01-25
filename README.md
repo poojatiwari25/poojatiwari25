@@ -2,7 +2,7 @@
 
 Software Engineer (SWE) specializing in Frontend development
 ## About Me
-I am proficient in JavaScript, React and a variety of frontend tools. Also skilled in the MERN Stack. Committed to crafting clean, efficient code and driving innovation in every project. Passionate about collaborating with dynamic teams to create impactful solutions and continuously advancing in the field of frontend development.
+I am a proficient web developer with 4 years of combined experience in front-end development and e-commerce platforms. Skilled in creating dynamic React.js applications and customizing e-commerce solutions using Magento 2, WordPress, and Shopify. Adept at delivering high-performance websites and applications that meet both user expectations and business objectives.
 
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,cpp,jquery,mysql,mongodb,tailwind,firebase,git,postman,netlify,)](https://skillicons.dev)
