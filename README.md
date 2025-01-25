@@ -11,7 +11,7 @@ I am a proficient web developer with 4 years of combined experience in front-end
 ## Skills
 **Frontend Development**: React.js, Redux, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap
 
-**E-commerce**: Magento 2 (theme and extension development), Shopify (Liquid), WordPress (custom themes and plugins), WooCommerce
+**Magento Development**: Magento 2.x, PHP, MySQL, Magento theme customization, Module development, Performance optimization
 
 **CMS Platforms**: Magento 2, WordPress, Shopify
 
